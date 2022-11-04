@@ -5,12 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
     path: Assets/Oculus/SampleFramework/Usage/SceneManager/Scenes/BouncingBall.unity
     guid: 8f96b0c0fd5605a4f8477abdb8e65436
+  - enabled: 0
+    path: Assets/Scenes/OcclusionSample.unity
+    guid: 9d9ef2f34e7ab3440855d59115370fa7
+  - enabled: 1
+    path: Assets/Scenes/SkyRoomSample.unity
+    guid: cf0f625ed18788b4b844b05d50b0ba2e
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f1a4fc40cb9d50d4ba5844dfa5c044b8, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 74842a67d480bc949ad71cb77abdc3d9, type: 2}
